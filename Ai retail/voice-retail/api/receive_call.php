@@ -1,0 +1,1 @@
+<?php echo 'Dummy receive_call endpoint'; ?>

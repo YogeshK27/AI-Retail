@@ -1,0 +1,1 @@
+<?php echo 'Dummy get_orders endpoint'; ?>
